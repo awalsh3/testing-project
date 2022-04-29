@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Testing tools used in this project:
+- Rspec
+- Factory Bot
+- Fixtures
+- Capybara
+- VCR (coming soon)
 
-Things you may want to cover:
 
-* Ruby version
+__Ruby version__
+<br>
+  ruby 3.0.3
 
-* System dependencies
+<!-- * System dependencies
 
 * Configuration
 
 * Database creation
 
-* Database initialization
+* Database initialization -->
 
-* How to run the test suite
+__How to run the test suite__
+<br>
+  In the terminal run `rspec`
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
